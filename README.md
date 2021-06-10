@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![](https://github.com/yrucrew/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/yrucrew/github-stats/blob/master/generated/languages.svg)
 <!--
 **yrucrew/yrucrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
